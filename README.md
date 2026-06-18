@@ -65,8 +65,6 @@ https://github.com/sandhyasriram
 LinkedIn:
 www.linkedin.com/in/sandhya-velamala
 
-Tableau Public:
-(Add Your Tableau Public URL)
 
 
 
