@@ -2,20 +2,13 @@
 
 ## About Me
 
-Aspiring Data Analyst with hands-on experience in SQL, BigQuery, Tableau, Excel, and Python.
+Aspiring Data Analyst with hands-on experience in SQL, Google BigQuery, Tableau, Excel, and Python.
 
-I completed an MCA in 2020 and am actively building practical analytics skills through real-world projects focused on business insights, customer analytics, and dashboard development.
-
-Currently focused on:
-
-* Data Analytics
-* Business Intelligence
-* SQL & Tableau Projects
-
+I completed my MCA in 2020 and am currently strengthening my analytics skills through real-world business projects focused on customer analytics, revenue analysis, KPI reporting, and dashboard development.
 
 ---
 
-## Skills
+## Technical Skills
 
 ### Data Analysis
 
@@ -30,11 +23,13 @@ Currently focused on:
 * Pandas
 * NumPy
 
-### Visualization
+### Analytics
 
-* Tableau
-* Data Storytelling
-* KPI Dashboards
+* Exploratory Data Analysis (EDA)
+* KPI Analysis
+* RFM Segmentation
+* Hypothesis Testing
+* Business Insights
 
 ---
 
@@ -42,28 +37,23 @@ Currently focused on:
 
 ### Target Brazil E-Commerce Analysis
 
-End-to-end business analysis project using SQL and Tableau.
-
-Key Highlights:
-
 * Analyzed 99K+ orders and 96K+ customers
-* Performed Revenue, Customer, Product, Seller, Payment, and Delivery Analysis
-* Built 3 Tableau Dashboards
-* Conducted RFM Customer Segmentation
-* Generated Business Recommendations
+* Performed Revenue, Customer, Product, Seller, Payment, Delivery and RFM Analysis
+* Built 3 Interactive Tableau Dashboards
+* Generated actionable business recommendations
 
-Project Link:
+🔗 Project Repository:
 https://github.com/sandhyasriram/target_sql_ecommerce_analysis
 
 ---
 
-## Currently Learning
+## Current Focus
 
 * Advanced SQL
-* Tableau Dashboard Design
+* Tableau Dashboard Development
 * Python for Data Analysis
-* Data Analytics Interview Preparation
-* Machine Learning Fundamentals 
+* Data Analyst Interview Preparation
+* Machine Learning
 
 ---
 
@@ -71,5 +61,12 @@ https://github.com/sandhyasriram/target_sql_ecommerce_analysis
 
 GitHub:
 https://github.com/sandhyasriram
+
+LinkedIn:
+www.linkedin.com/in/sandhya-velamala
+
+Tableau Public:
+(Add Your Tableau Public URL)
+
 
 
